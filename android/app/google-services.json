@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141001428324",
+    "project_id": "basyir-2acef",
+    "storage_bucket": "basyir-2acef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141001428324:android:305863da723229d47dfe71",
+        "android_client_info": {
+          "package_name": "com.basyir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141001428324-hdgi6e85cgf1r6rjmhm42e2cqh5vk8dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCyXHZF97hJOgg05qWO_6JjTjh2Gm_gNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141001428324-hdgi6e85cgf1r6rjmhm42e2cqh5vk8dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

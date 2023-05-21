@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.basyir.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.basyir.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.basyir.app-main-38:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.basyir.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.basyir.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]
