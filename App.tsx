@@ -58,7 +58,7 @@ const SplashScreen = ({ navigation }) => {
 const HomeScreen = ({ navigation }) => {
   const webviewref = useRef(null);
 	const [canGoBack, setCanGoBack] = useState(false);
-	const [currentUrl, setCurrentUrl] = useState('https://bradabagus.com/');
+	const [currentUrl, setCurrentUrl] = useState('https://app.basyir.bradabagus.com/');
 
 	const backAction = () => {
 		if(canGoBack){
